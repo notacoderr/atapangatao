@@ -1,0 +1,12 @@
+name: SmashBros
+main: KaitoDoDo\Smash\Smash
+author: KaitoDoDo
+version: 1.0.0 ENG
+api: [3.0.0-ALPHA11]
+commands:
+    smash:
+        usage: /smash <make>
+        description: SMASH-Commands
+    smstart:
+        usage: /smstart
+        description: SMASH-ForceStart
